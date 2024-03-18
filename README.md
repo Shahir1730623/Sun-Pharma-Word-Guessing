@@ -17,7 +17,7 @@ Increases awareness of Sun Pharma's newly launched medicines in a fun, interacti
    Developed using Flutter with Dart, ensuring a responsive and cross-platform user experience.
 
 <h2>Game Screenshots</h2> 
-<img src="images/1.png" width="400">
-<img src="images/2.png" width="400">
-<img src="images/3.png" width="400">
-<img src="images/4.png" width="400">
+<img src="image/1.png" width="400">
+<img src="image/2.png" width="400">
+<img src="image/3.png" width="400">
+<img src="image/4.png" width="400">
